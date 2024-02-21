@@ -38,7 +38,7 @@
 :arrow_up:[к оглавлению](https://github.com/AndreyKhamid/DS_HW/tree/main/project_0#Оглавление)
 
 ### Результат
-....
+Алгоритм работы кода (game_v2.py) угадывает число в среднем за 19 попыток.
 
 :arrow_up:[к оглавлению](https://github.com/AndreyKhamid/DS_HW/tree/main/project_0#Оглавление)
 

@@ -1,10 +1,12 @@
 """Игра угадай число"""
 
+# Импорт библиотеки numpy.
 import numpy as np
 
-number = np.random.randint(1, 101) # загадываем число
+# Загадываем рандомное число.
+number = np.random.randint(1, 101)
 
-# количество попыток
+# Количество попыток.
 count = 0
 
 while True:
