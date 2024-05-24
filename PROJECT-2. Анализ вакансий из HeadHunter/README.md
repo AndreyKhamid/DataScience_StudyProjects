@@ -57,8 +57,8 @@
 
 ## Установка проекта
 
-```
-git clone https://github.com/SkillfactoryDS/DataCleaningProject
+```PowerShell
+git clone https://github.com/AndreyKhamid/DataScience_StudyProjects.git
 ```
 
 ## Использование
