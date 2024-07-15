@@ -35,7 +35,7 @@
 **Данный проект** направлен на построение модели предсказания оценки отеля `reviewer_score`. Метрика качества модели определяется по *MAPE* *(Mean Absolute Precentage Error)*. Основаня задача проекта – демонстрация навыков разведывательного анализа данных (*EDA*).
 
 **О структуре проекта:**
-* [project-3-eda-feature-engineering.ipynb](https://github.com/AndreyKhamid/DataScience_StudyProjects/blob/main/PROJECT-3._EDA_+_Feature_Engineering._Соревнование_на_Kaggle\PROJECT-3_(Kaggle_version)\project-3-eda-feature-engineering.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются навыки *EDA* и *MB*.
+* [project-3-eda-feature-engineering.ipynb](https://github.com/AndreyKhamid/DataScience_StudyProjects/blob/main/PROJECT-3.%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%20%D0%BE%D1%82%D0%B5%D0%BB%D1%8F%20%D0%BD%D0%B0%20Booking/project-3-eda-feature-engineering.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются навыки *EDA* и *MB*.
 
 ## <a id="title2">Описание данных</a>
 **Файлы для соревнования:**  
@@ -43,7 +43,7 @@
 - `hotels_test.csv` - набор данных для оценки качества;  
 - `submission.csv` - файл сабмишна в нужном формате.
 
-***Указанные файлы необходимо скачать по [ссылке](https://drive.google.com/file/d/1gEuAEHzkvx7TTI3MblPPAAoH1jDU9vaM/view?usp=sharing)***
+***Указанные файлы необходимо скачать по [ссылке](https://drive.google.com/file/d/1gEuAEHzkvx7TTI3MblPPAAoH1jDU9vaM/view?usp=sharing) после чего в папке `/PROJECT-3. Прогнозирование рейтинга отеля на Booking` создать папку `/data`, где их и расположить.***
 
 ## <a id="title3">Используемые зависимости</a>
 * Python (3.9):
